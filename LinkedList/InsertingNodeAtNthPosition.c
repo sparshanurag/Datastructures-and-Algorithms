@@ -45,6 +45,4 @@ int main(){
         Insert(&head,data,n);
         Print(head);
     }
-[A[A[B[3~[3~[C[C[C[}
-[A    }
 }
